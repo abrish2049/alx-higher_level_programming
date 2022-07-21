@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 # 0-square.py
-"""This class don't do anything for the moment"""
+"""Define a class Square."""
+
 
 class Square:
-    """Class Square"""
+    """Represent a square."""
     pass
